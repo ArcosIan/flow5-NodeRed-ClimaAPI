@@ -82,7 +82,7 @@ A continuación puede ver el tablero resultante.
 
 
 
-
+https://user-images.githubusercontent.com/111370977/187747506-a8cf44f6-a30a-4f21-8e52-7628bd219a07.mp4
 
 
 
@@ -90,6 +90,10 @@ A continuación puede ver el tablero resultante.
 
 
 # Creditos
+
+
+
+
 Desarrollado por Ian Arcos
 
 https://github.com/ArcosIan
