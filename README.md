@@ -82,7 +82,9 @@ A continuación puede ver el tablero resultante.
 
 
 
-https://user-images.githubusercontent.com/111370977/187747506-a8cf44f6-a30a-4f21-8e52-7628bd219a07.mp4
+https://user-images.githubusercontent.com/111370977/187748052-08aede76-f235-4f62-86e2-082be6de9cd2.mp4
+
+
 
 
 
