@@ -79,5 +79,5 @@ A continuación puede ver el tablero resultante.
 
 # Créditos
 
-Desarrollado por Hugo Escalpelo
+Desarrollado por Ian Arcos
 - [GitHub](https://github.com/ArcosIan)
