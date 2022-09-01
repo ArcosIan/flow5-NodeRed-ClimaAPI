@@ -69,9 +69,10 @@ Para ejecutar este flow, es necesario lo siguiente:
 
 A continuación puedes ver los nodos del flow.
 
+![Nodos](https://user-images.githubusercontent.com/111370977/187972686-9ab31163-542c-404c-81c3-9e24d21ed533.png)
 
 A continuación puede ver el tablero resultante.
-
+![Dashboard](https://user-images.githubusercontent.com/111370977/187972699-32e40ba1-792c-463a-9d8b-407bb7545ddc.png)
 
 ## Evidencias
 
@@ -80,4 +81,5 @@ A continuación puede ver el tablero resultante.
 # Créditos
 
 Desarrollado por Ian Arcos
-- [GitHub](https://github.com/ArcosIan)
+
+- [GitHub](https://github!.com/ArcosIan)
